@@ -1,0 +1,20 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Automatic tools make comparison betwen 2 files less tedious, highlighted text with - and +, it would be impossible without diff command to compare thousands of lines of codes to spot a typo or other minor mistake.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When code, program or website breaks it would be useful to go back to the previous version that was working before changes to identify the bug.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros: less files to compare when debugging code, ability to work offline
+Cons: may lose time if lose critical code that hasn't been committed.
+
+How can you use the commands git log and git diff to view the history of files?
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Version control, collaboration with other programmers, debugging
