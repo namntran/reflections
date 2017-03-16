@@ -17,10 +17,9 @@ use one instead of another?
 
     A fork is is when you can take the source code and work on it separate from the original developers. The reason you forked in the first place is because you don't have permission to change the owner's repository! 
 
-What is the benefit of having a copy of the last known state of the remote
-stored locally?
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-    No internet, latest working version
+    No internet for example getting on the plane, latest working version
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
